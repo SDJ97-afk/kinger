@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "entity977.aternos.me:18937",
+    "ip": "entity977.aternos.me",
     "port": 18937,
     "version": "",
     "try-creative": false
